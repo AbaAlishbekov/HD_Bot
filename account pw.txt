@@ -1,0 +1,4 @@
+server: https://www.pythonanywhere.com/user/HelpDeskBot/
+Login: HelpDeskBot
+Emain: kvqnonjfudqtbdpsks@hthlm.com
+password: Qwerty123456
